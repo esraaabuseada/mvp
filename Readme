@@ -1,0 +1,4 @@
+There is three classes:
+1- Model Class :for initializa the counter and increment function
+2- Presenter Class:responsible for getting the result from model class and transfere it to the view class
+3- View Class: MainActivity to display the counter increment
